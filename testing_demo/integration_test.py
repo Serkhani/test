@@ -1,6 +1,6 @@
 import unittest
 
-from testing_demo.unit_test import Product
+from unit_test import Product
 
 class ShoppingCart:
   def __init__(self):
